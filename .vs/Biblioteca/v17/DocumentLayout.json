@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jaestrada\\source\\repos\\Biblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99F7A4FB-EAD2-4544-9E9C-B579DA5B73B1}|Biblioteca\\Biblioteca.csproj|c:\\users\\jaestrada\\source\\repos\\biblioteca\\biblioteca\\formprestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99F7A4FB-EAD2-4544-9E9C-B579DA5B73B1}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\formprestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F7A4FB-EAD2-4544-9E9C-B579DA5B73B1}|Biblioteca\\Biblioteca.csproj|c:\\users\\jaestrada\\source\\repos\\biblioteca\\biblioteca\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99F7A4FB-EAD2-4544-9E9C-B579DA5B73B1}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F7A4FB-EAD2-4544-9E9C-B579DA5B73B1}|Biblioteca\\Biblioteca.csproj|c:\\users\\jaestrada\\source\\repos\\biblioteca\\biblioteca\\formlibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99F7A4FB-EAD2-4544-9E9C-B579DA5B73B1}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\formlibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F7A4FB-EAD2-4544-9E9C-B579DA5B73B1}|Biblioteca\\Biblioteca.csproj|c:\\users\\jaestrada\\source\\repos\\biblioteca\\biblioteca\\formmiembros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99F7A4FB-EAD2-4544-9E9C-B579DA5B73B1}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\formmiembros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F7A4FB-EAD2-4544-9E9C-B579DA5B73B1}|Biblioteca\\Biblioteca.csproj|c:\\users\\jaestrada\\source\\repos\\biblioteca\\biblioteca\\formprestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99F7A4FB-EAD2-4544-9E9C-B579DA5B73B1}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\formprestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F7A4FB-EAD2-4544-9E9C-B579DA5B73B1}|Biblioteca\\Biblioteca.csproj|c:\\users\\jaestrada\\source\\repos\\biblioteca\\biblioteca\\clases\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99F7A4FB-EAD2-4544-9E9C-B579DA5B73B1}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\clases\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F7A4FB-EAD2-4544-9E9C-B579DA5B73B1}|Biblioteca\\Biblioteca.csproj|c:\\users\\jaestrada\\source\\repos\\biblioteca\\biblioteca\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99F7A4FB-EAD2-4544-9E9C-B579DA5B73B1}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F7A4FB-EAD2-4544-9E9C-B579DA5B73B1}|Biblioteca\\Biblioteca.csproj|c:\\users\\jaestrada\\source\\repos\\biblioteca\\biblioteca\\formmiembros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99F7A4FB-EAD2-4544-9E9C-B579DA5B73B1}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\formmiembros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Prestamo.cs",
+              "DocumentMoniker": "C:\\Users\\jaestrada\\source\\repos\\Biblioteca\\Biblioteca\\Clases\\Prestamo.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Clases\\Prestamo.cs",
+              "ToolTip": "C:\\Users\\jaestrada\\source\\repos\\Biblioteca\\Biblioteca\\Clases\\Prestamo.cs",
+              "RelativeToolTip": "Biblioteca\\Clases\\Prestamo.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAcwBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T21:45:46.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\jaestrada\\source\\repos\\Biblioteca\\Biblioteca\\Form1.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Form1.cs",
+              "ToolTip": "C:\\Users\\jaestrada\\source\\repos\\Biblioteca\\Biblioteca\\Form1.cs",
+              "RelativeToolTip": "Biblioteca\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T21:38:07.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jaestrada\\source\\repos\\Biblioteca\\Biblioteca\\Form1.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Form1.cs",
+              "ToolTip": "C:\\Users\\jaestrada\\source\\repos\\Biblioteca\\Biblioteca\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Biblioteca\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T21:37:53.355Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormPrestamos.cs",
+              "DocumentMoniker": "C:\\Users\\jaestrada\\source\\repos\\Biblioteca\\Biblioteca\\FormPrestamos.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\FormPrestamos.cs",
+              "ToolTip": "C:\\Users\\jaestrada\\source\\repos\\Biblioteca\\Biblioteca\\FormPrestamos.cs",
+              "RelativeToolTip": "Biblioteca\\FormPrestamos.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAmwE4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T21:35:24.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormPrestamos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jaestrada\\source\\repos\\Biblioteca\\Biblioteca\\FormPrestamos.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\FormPrestamos.cs",
+              "ToolTip": "C:\\Users\\jaestrada\\source\\repos\\Biblioteca\\Biblioteca\\FormPrestamos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Biblioteca\\FormPrestamos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T21:29:54.279Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormMiembros.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jaestrada\\source\\repos\\Biblioteca\\Biblioteca\\FormMiembros.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\FormMiembros.cs",
+              "ToolTip": "C:\\Users\\jaestrada\\source\\repos\\Biblioteca\\Biblioteca\\FormMiembros.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Biblioteca\\FormMiembros.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T20:48:55.807Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormLibros.cs",
+              "DocumentMoniker": "C:\\Users\\jaestrada\\source\\repos\\Biblioteca\\Biblioteca\\FormLibros.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\FormLibros.cs",
+              "ToolTip": "C:\\Users\\jaestrada\\source\\repos\\Biblioteca\\Biblioteca\\FormLibros.cs",
+              "RelativeToolTip": "Biblioteca\\FormLibros.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAcwIUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T19:49:44.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormMiembros.cs",
+              "DocumentMoniker": "C:\\Users\\jaestrada\\source\\repos\\Biblioteca\\Biblioteca\\FormMiembros.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\FormMiembros.cs",
+              "ToolTip": "C:\\Users\\jaestrada\\source\\repos\\Biblioteca\\Biblioteca\\FormMiembros.cs",
+              "RelativeToolTip": "Biblioteca\\FormMiembros.cs",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAuwI8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T19:20:11.044Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
