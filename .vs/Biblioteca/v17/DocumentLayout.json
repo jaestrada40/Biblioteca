@@ -1,38 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jaestrada\\source\\repos\\Biblioteca\\",
+  "WorkspaceRootPath": "C:\\Users\\jaest\\OneDrive\\Documentos\\GitHub\\Biblioteca\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{99F7A4FB-EAD2-4544-9E9C-B579DA5B73B1}|Biblioteca\\Biblioteca.csproj|c:\\users\\jaestrada\\source\\repos\\biblioteca\\biblioteca\\formprestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{99F7A4FB-EAD2-4544-9E9C-B579DA5B73B1}|Biblioteca\\Biblioteca.csproj|c:\\users\\jaest\\onedrive\\documentos\\github\\biblioteca\\biblioteca\\formprestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99F7A4FB-EAD2-4544-9E9C-B579DA5B73B1}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\formprestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99F7A4FB-EAD2-4544-9E9C-B579DA5B73B1}|Biblioteca\\Biblioteca.csproj|c:\\users\\jaestrada\\source\\repos\\biblioteca\\biblioteca\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{99F7A4FB-EAD2-4544-9E9C-B579DA5B73B1}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99F7A4FB-EAD2-4544-9E9C-B579DA5B73B1}|Biblioteca\\Biblioteca.csproj|c:\\users\\jaestrada\\source\\repos\\biblioteca\\biblioteca\\formlibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99F7A4FB-EAD2-4544-9E9C-B579DA5B73B1}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\formlibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99F7A4FB-EAD2-4544-9E9C-B579DA5B73B1}|Biblioteca\\Biblioteca.csproj|c:\\users\\jaestrada\\source\\repos\\biblioteca\\biblioteca\\formmiembros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{99F7A4FB-EAD2-4544-9E9C-B579DA5B73B1}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\formmiembros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99F7A4FB-EAD2-4544-9E9C-B579DA5B73B1}|Biblioteca\\Biblioteca.csproj|c:\\users\\jaestrada\\source\\repos\\biblioteca\\biblioteca\\formprestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{99F7A4FB-EAD2-4544-9E9C-B579DA5B73B1}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\formprestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99F7A4FB-EAD2-4544-9E9C-B579DA5B73B1}|Biblioteca\\Biblioteca.csproj|c:\\users\\jaestrada\\source\\repos\\biblioteca\\biblioteca\\clases\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{99F7A4FB-EAD2-4544-9E9C-B579DA5B73B1}|Biblioteca\\Biblioteca.csproj|c:\\users\\jaest\\onedrive\\documentos\\github\\biblioteca\\biblioteca\\clases\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99F7A4FB-EAD2-4544-9E9C-B579DA5B73B1}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\clases\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99F7A4FB-EAD2-4544-9E9C-B579DA5B73B1}|Biblioteca\\Biblioteca.csproj|c:\\users\\jaestrada\\source\\repos\\biblioteca\\biblioteca\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{99F7A4FB-EAD2-4544-9E9C-B579DA5B73B1}|Biblioteca\\Biblioteca.csproj|c:\\users\\jaest\\onedrive\\documentos\\github\\biblioteca\\biblioteca\\clases\\miembro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99F7A4FB-EAD2-4544-9E9C-B579DA5B73B1}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\clases\\miembro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F7A4FB-EAD2-4544-9E9C-B579DA5B73B1}|Biblioteca\\Biblioteca.csproj|c:\\users\\jaest\\onedrive\\documentos\\github\\biblioteca\\biblioteca\\formlibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99F7A4FB-EAD2-4544-9E9C-B579DA5B73B1}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\formlibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F7A4FB-EAD2-4544-9E9C-B579DA5B73B1}|Biblioteca\\Biblioteca.csproj|c:\\users\\jaest\\onedrive\\documentos\\github\\biblioteca\\biblioteca\\formmiembros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99F7A4FB-EAD2-4544-9E9C-B579DA5B73B1}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\formmiembros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F7A4FB-EAD2-4544-9E9C-B579DA5B73B1}|Biblioteca\\Biblioteca.csproj|c:\\users\\jaest\\onedrive\\documentos\\github\\biblioteca\\biblioteca\\clases\\datastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99F7A4FB-EAD2-4544-9E9C-B579DA5B73B1}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\clases\\datastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F7A4FB-EAD2-4544-9E9C-B579DA5B73B1}|Biblioteca\\Biblioteca.csproj|c:\\users\\jaest\\onedrive\\documentos\\github\\biblioteca\\biblioteca\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99F7A4FB-EAD2-4544-9E9C-B579DA5B73B1}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99F7A4FB-EAD2-4544-9E9C-B579DA5B73B1}|Biblioteca\\Biblioteca.csproj|c:\\users\\jaestrada\\source\\repos\\biblioteca\\biblioteca\\formmiembros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99F7A4FB-EAD2-4544-9E9C-B579DA5B73B1}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\formmiembros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99F7A4FB-EAD2-4544-9E9C-B579DA5B73B1}|Biblioteca\\Biblioteca.csproj|c:\\users\\jaest\\onedrive\\documentos\\github\\biblioteca\\biblioteca\\clases\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99F7A4FB-EAD2-4544-9E9C-B579DA5B73B1}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\clases\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,17 +42,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Miembro.cs",
+              "DocumentMoniker": "C:\\Users\\jaest\\OneDrive\\Documentos\\GitHub\\Biblioteca\\Biblioteca\\Clases\\Miembro.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Clases\\Miembro.cs",
+              "ToolTip": "C:\\Users\\jaest\\OneDrive\\Documentos\\GitHub\\Biblioteca\\Biblioteca\\Clases\\Miembro.cs",
+              "RelativeToolTip": "Biblioteca\\Clases\\Miembro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T00:02:50.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormPrestamos.cs",
+              "DocumentMoniker": "C:\\Users\\jaest\\OneDrive\\Documentos\\GitHub\\Biblioteca\\Biblioteca\\FormPrestamos.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\FormPrestamos.cs",
+              "ToolTip": "C:\\Users\\jaest\\OneDrive\\Documentos\\GitHub\\Biblioteca\\Biblioteca\\FormPrestamos.cs",
+              "RelativeToolTip": "Biblioteca\\FormPrestamos.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAADwv3cAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T21:35:24.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "DataStore.cs",
+              "DocumentMoniker": "C:\\Users\\jaest\\OneDrive\\Documentos\\GitHub\\Biblioteca\\Biblioteca\\Clases\\DataStore.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Clases\\DataStore.cs",
+              "ToolTip": "C:\\Users\\jaest\\OneDrive\\Documentos\\GitHub\\Biblioteca\\Biblioteca\\Clases\\DataStore.cs",
+              "RelativeToolTip": "Biblioteca\\Clases\\DataStore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T23:36:58.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\jaest\\OneDrive\\Documentos\\GitHub\\Biblioteca\\Biblioteca\\Clases\\Libro.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Clases\\Libro.cs",
+              "ToolTip": "C:\\Users\\jaest\\OneDrive\\Documentos\\GitHub\\Biblioteca\\Biblioteca\\Clases\\Libro.cs",
+              "RelativeToolTip": "Biblioteca\\Clases\\Libro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T23:33:25.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Prestamo.cs",
-              "DocumentMoniker": "C:\\Users\\jaestrada\\source\\repos\\Biblioteca\\Biblioteca\\Clases\\Prestamo.cs",
+              "DocumentMoniker": "C:\\Users\\jaest\\OneDrive\\Documentos\\GitHub\\Biblioteca\\Biblioteca\\Clases\\Prestamo.cs",
               "RelativeDocumentMoniker": "Biblioteca\\Clases\\Prestamo.cs",
-              "ToolTip": "C:\\Users\\jaestrada\\source\\repos\\Biblioteca\\Biblioteca\\Clases\\Prestamo.cs",
+              "ToolTip": "C:\\Users\\jaest\\OneDrive\\Documentos\\GitHub\\Biblioteca\\Biblioteca\\Clases\\Prestamo.cs",
               "RelativeToolTip": "Biblioteca\\Clases\\Prestamo.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAcwBIAAAAJAAAA",
+              "ViewState": "AQIAABoAAAAAAAAAAAAswDIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-06T21:45:46.011Z",
               "EditorCaption": ""
@@ -61,9 +113,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\jaestrada\\source\\repos\\Biblioteca\\Biblioteca\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\jaest\\OneDrive\\Documentos\\GitHub\\Biblioteca\\Biblioteca\\Form1.cs",
               "RelativeDocumentMoniker": "Biblioteca\\Form1.cs",
-              "ToolTip": "C:\\Users\\jaestrada\\source\\repos\\Biblioteca\\Biblioteca\\Form1.cs",
+              "ToolTip": "C:\\Users\\jaest\\OneDrive\\Documentos\\GitHub\\Biblioteca\\Biblioteca\\Form1.cs",
               "RelativeToolTip": "Biblioteca\\Form1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -72,75 +124,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\jaestrada\\source\\repos\\Biblioteca\\Biblioteca\\Form1.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\Form1.cs",
-              "ToolTip": "C:\\Users\\jaestrada\\source\\repos\\Biblioteca\\Biblioteca\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Biblioteca\\Form1.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T21:37:53.355Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FormPrestamos.cs",
-              "DocumentMoniker": "C:\\Users\\jaestrada\\source\\repos\\Biblioteca\\Biblioteca\\FormPrestamos.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\FormPrestamos.cs",
-              "ToolTip": "C:\\Users\\jaestrada\\source\\repos\\Biblioteca\\Biblioteca\\FormPrestamos.cs",
-              "RelativeToolTip": "Biblioteca\\FormPrestamos.cs",
-              "ViewState": "AQIAAE0AAAAAAAAAAAAmwE4AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T21:35:24.094Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FormPrestamos.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\jaestrada\\source\\repos\\Biblioteca\\Biblioteca\\FormPrestamos.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\FormPrestamos.cs",
-              "ToolTip": "C:\\Users\\jaestrada\\source\\repos\\Biblioteca\\Biblioteca\\FormPrestamos.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Biblioteca\\FormPrestamos.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T21:29:54.279Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "FormMiembros.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\jaestrada\\source\\repos\\Biblioteca\\Biblioteca\\FormMiembros.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\FormMiembros.cs",
-              "ToolTip": "C:\\Users\\jaestrada\\source\\repos\\Biblioteca\\Biblioteca\\FormMiembros.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Biblioteca\\FormMiembros.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T20:48:55.807Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "FormLibros.cs",
-              "DocumentMoniker": "C:\\Users\\jaestrada\\source\\repos\\Biblioteca\\Biblioteca\\FormLibros.cs",
+              "DocumentMoniker": "C:\\Users\\jaest\\OneDrive\\Documentos\\GitHub\\Biblioteca\\Biblioteca\\FormLibros.cs",
               "RelativeDocumentMoniker": "Biblioteca\\FormLibros.cs",
-              "ToolTip": "C:\\Users\\jaestrada\\source\\repos\\Biblioteca\\Biblioteca\\FormLibros.cs",
+              "ToolTip": "C:\\Users\\jaest\\OneDrive\\Documentos\\GitHub\\Biblioteca\\Biblioteca\\FormLibros.cs",
               "RelativeToolTip": "Biblioteca\\FormLibros.cs",
-              "ViewState": "AQIAAGcAAAAAAAAAAAAcwIUAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-06T19:49:44.668Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "FormMiembros.cs",
-              "DocumentMoniker": "C:\\Users\\jaestrada\\source\\repos\\Biblioteca\\Biblioteca\\FormMiembros.cs",
+              "DocumentMoniker": "C:\\Users\\jaest\\OneDrive\\Documentos\\GitHub\\Biblioteca\\Biblioteca\\FormMiembros.cs",
               "RelativeDocumentMoniker": "Biblioteca\\FormMiembros.cs",
-              "ToolTip": "C:\\Users\\jaestrada\\source\\repos\\Biblioteca\\Biblioteca\\FormMiembros.cs",
+              "ToolTip": "C:\\Users\\jaest\\OneDrive\\Documentos\\GitHub\\Biblioteca\\Biblioteca\\FormMiembros.cs",
               "RelativeToolTip": "Biblioteca\\FormMiembros.cs",
-              "ViewState": "AQIAAJ8AAAAAAAAAAAAuwI8AAAAJAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAALMAAABUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-06T19:20:11.044Z",
               "EditorCaption": ""

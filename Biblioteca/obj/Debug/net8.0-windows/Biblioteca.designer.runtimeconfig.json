@@ -12,8 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\jaestrada\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\jaestrada\\.nuget\\packages"
+      "C:\\Users\\jaest\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\jaest\\.nuget\\packages"
     ],
     "configProperties": {
       "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": true,

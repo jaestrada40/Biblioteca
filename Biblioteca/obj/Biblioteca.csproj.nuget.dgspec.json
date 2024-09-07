@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jaestrada\\source\\repos\\Biblioteca\\Biblioteca\\Biblioteca.csproj": {}
+    "C:\\Users\\jaest\\OneDrive\\Documentos\\GitHub\\Biblioteca\\Biblioteca\\Biblioteca.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jaestrada\\source\\repos\\Biblioteca\\Biblioteca\\Biblioteca.csproj": {
+    "C:\\Users\\jaest\\OneDrive\\Documentos\\GitHub\\Biblioteca\\Biblioteca\\Biblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jaestrada\\source\\repos\\Biblioteca\\Biblioteca\\Biblioteca.csproj",
+        "projectUniqueName": "C:\\Users\\jaest\\OneDrive\\Documentos\\GitHub\\Biblioteca\\Biblioteca\\Biblioteca.csproj",
         "projectName": "Biblioteca",
-        "projectPath": "C:\\Users\\jaestrada\\source\\repos\\Biblioteca\\Biblioteca\\Biblioteca.csproj",
-        "packagesPath": "C:\\Users\\jaestrada\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jaestrada\\source\\repos\\Biblioteca\\Biblioteca\\obj\\",
+        "projectPath": "C:\\Users\\jaest\\OneDrive\\Documentos\\GitHub\\Biblioteca\\Biblioteca\\Biblioteca.csproj",
+        "packagesPath": "C:\\Users\\jaest\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jaest\\OneDrive\\Documentos\\GitHub\\Biblioteca\\Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jaestrada\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jaest\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -64,7 +64,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

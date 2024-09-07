@@ -175,9 +175,9 @@ namespace Biblioteca
             {
                 int selectedIndex = dataGridViewMiembros.SelectedRows[0].Index;
 
-                if (selectedIndex >= 0 && selectedIndex < DataStore.Miembros.Count) // Usa DataStore.Miembros
+                if (selectedIndex >= 0 && selectedIndex < DataStore.Miembros.Count) 
                 {
-                    Miembro miembroSeleccionado = DataStore.Miembros[selectedIndex]; // Usa DataStore.Miembros
+                    Miembro miembroSeleccionado = DataStore.Miembros[selectedIndex];
                     txtNombre.Text = miembroSeleccionado.Nombre;
                     txtNumeroMiembro.Text = miembroSeleccionado.NumeroMiembro.ToString();
                 }

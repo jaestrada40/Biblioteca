@@ -13,11 +13,12 @@ namespace Biblioteca
 {
     public partial class FormPrestamos : Form
     {
-        private List<Prestamo> prestamos = new List<Prestamo>();
+        private BindingList<Prestamo> prestamos = new BindingList<Prestamo>();
         public FormPrestamos()
         {
             InitializeComponent();
             CargarDatos();
+            dataGridViewPrestamos.DataSource = prestamos;
         }
 
         // Configura el formulario con datos iniciales
@@ -54,7 +55,6 @@ namespace Biblioteca
         {
             try
             {
-                // Obtener libro y miembro seleccionados desde los ComboBoxes
                 Libro libroSeleccionado = comboBoxLibros.SelectedItem as Libro;
                 Miembro miembroSeleccionado = comboBoxMiembros.SelectedItem as Miembro;
 
@@ -64,13 +64,13 @@ namespace Biblioteca
                     return;
                 }
 
-                // Crear un nuevo préstamo con la fecha actual
                 Prestamo prestamo = new Prestamo(libroSeleccionado, miembroSeleccionado, DateTime.Now);
                 prestamo.RealizarPrestamo();
 
-                prestamos.Add(prestamo); // Agregar el préstamo a la lista
+                prestamos.Add(prestamo); // Actualiza automáticamente el DataGridView
+
+                DataStore.Prestamos.Add(prestamo); // Asegúrate de que también se actualice en DataStore si lo usas en otros lugares
                 MessageBox.Show("El préstamo se ha realizado correctamente.", "Éxito", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                ActualizarListaPrestamos();
             }
             catch (InvalidOperationException ex)
             {
@@ -78,12 +78,12 @@ namespace Biblioteca
             }
         }
 
+
+
         private void btnDevolverLibro_Click(object sender, EventArgs e)
         {
-            // Ejemplo simple de devolución de libro
             if (dataGridViewPrestamos.SelectedRows.Count > 0)
             {
-                // Obtener el préstamo seleccionado
                 var selectedRow = dataGridViewPrestamos.SelectedRows[0];
                 var prestamoSeleccionado = selectedRow.DataBoundItem as Prestamo;
 
@@ -93,7 +93,6 @@ namespace Biblioteca
                     {
                         prestamoSeleccionado.DevolverLibro();
                         MessageBox.Show("El libro ha sido devuelto correctamente.", "Éxito", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                        ActualizarListaPrestamos();
                     }
                     catch (InvalidOperationException ex)
                     {
@@ -107,14 +106,14 @@ namespace Biblioteca
             }
         }
 
-        private void ActualizarListaPrestamos()
-        {
-            // Actualiza el DataGridView con la lista de préstamos
-            dataGridViewPrestamos.Rows.Clear();
-            foreach (var prestamo in prestamos)
-            {
-                dataGridViewPrestamos.Rows.Add(prestamo.LibroPrestado.Titulo, prestamo.Miembro.Nombre, prestamo.FechaPrestamo.ToShortDateString(), prestamo.FechaDevolucion?.ToShortDateString() ?? "No devuelto");
-            }
-        }
+        //private void ActualizarListaPrestamos()
+        //{
+        //    // Actualiza el DataGridView con la lista de préstamos
+        //    dataGridViewPrestamos.Rows.Clear();
+        //    foreach (var prestamo in DataStore.Prestamos)
+        //    {
+        //        dataGridViewPrestamos.Rows.Add(prestamo.LibroPrestado.Titulo, prestamo.Miembro.Nombre, prestamo.FechaPrestamo.ToShortDateString(), prestamo.FechaDevolucion?.ToShortDateString() ?? "No devuelto");
+        //    }
+        //}
     }
 }
